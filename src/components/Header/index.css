@@ -1,0 +1,67 @@
+.header-con {
+  width: 1199px;
+  height: 75px;
+  left: 241px;
+  padding: 20px 32px 21px 21px;
+  gap: 0px;
+  border: 0px 0px 1px 0px;
+  opacity: 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fcfcfd;
+  border-bottom: 1px solid #f2f4f7;
+}
+.header-con h2 {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.78px;
+  text-align: left;
+  color: #344054;
+}
+.right-header-con {
+  width: 309px;
+  height: 34px;
+  top: 20px;
+  left: 858px;
+  gap: 24px;
+  opacity: 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search-con {
+  width: 251px;
+  height: 34px;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid #eaecf0;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+}
+.search-icon {
+  width: 13.71px;
+  height: 13.71px;
+  color: #667085;
+  margin-right: 5px;
+}
+.search-con input {
+  border: none;
+  background-color: transparent;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16.94px;
+  text-align: left;
+  color: #98a2b3;
+}
+.noti-con {
+  width: 17px;
+  height: 24px;
+  color: #667085;
+}
